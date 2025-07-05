@@ -8,7 +8,7 @@ a super minimal, no-bs app to track how much time you spend working.
 - start a timer for any task or skill  
 - stop it when you're done  
 - see how much time you’ve logged  
-- stores all the data in local storage
+- stores all data in local storage
 - that’s it
 
 ## who it's for
