@@ -139,7 +139,7 @@ export default function WorkHourTracker() {
     <div className="min-h-screen bg-white text-black p-6 max-w-2xl mx-auto">
       {/* Header */}
       <div className="text-center mb-12">
-        <h1 className="text-2xl font-light tracking-wide">WORK TRACKER</h1>
+        <h1 className="text-2xl font-light tracking-wide">worklog</h1>
         <div className="w-16 h-px bg-black mx-auto mt-2"></div>
       </div>
 
