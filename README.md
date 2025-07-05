@@ -1,4 +1,4 @@
-# minimal-track
+# worklog
 
 a super minimal, no-bs app to track how much time you spend working.
 
